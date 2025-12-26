@@ -1,4 +1,4 @@
-# UniswapX Service
+#Getting Started
 
 [![Unit Tests](https://github.com/Uniswap/uniswapx-service/actions/workflows/CI.yml/badge.svg)](https://github.com/Uniswap/uniswapx-service/actions/workflows/CI.yml)
 
